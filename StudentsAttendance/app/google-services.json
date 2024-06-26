@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "34748899919",
+    "firebase_url": "https://student-attendance-763ba-default-rtdb.firebaseio.com",
+    "project_id": "student-attendance-763ba",
+    "storage_bucket": "student-attendance-763ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34748899919:android:5fade0e208bb099db2803a",
+        "android_client_info": {
+          "package_name": "com.example.studentattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznoFLz8aGF0DB_GZij06CIWi-zhP_100"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34748899919:android:c52ac9dfc4efd57cb2803a",
+        "android_client_info": {
+          "package_name": "com.saurabh.studentattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznoFLz8aGF0DB_GZij06CIWi-zhP_100"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34748899919:android:53cc98ea73cf0309b2803a",
+        "android_client_info": {
+          "package_name": "com.saurabh.studentsattendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAznoFLz8aGF0DB_GZij06CIWi-zhP_100"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
